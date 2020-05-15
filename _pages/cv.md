@@ -19,7 +19,11 @@ Work experience
 ======
 * 2019-: Research Assistant
   * The Ohio State University
-  * Supervisor: Yu Su
+  * Supervisor: [Yu Su](https://ysu1989.github.io)
+ 
+* 2015-: Research Assistant
+  * Nanjing University
+  * Supervisor: [Gong Cheng](http://ws.nju.edu.cn/~gcheng)
 
   
 Skills
