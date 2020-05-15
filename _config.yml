@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yu Gu"
   avatar           : "WechatIMG1.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. student in NLP"
+  location         : "Columbus, OH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=c5RwjjcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yu-gu-65b765b4/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
