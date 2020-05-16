@@ -26,33 +26,7 @@ Work experience
   * Supervisor: [Gong Cheng](http://ws.nju.edu.cn/~gcheng)
 
   
-Skills
+Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Program Committee Member: NLPCC'2020
+* External Reviewer / Subreviewer:  KDD’2020, ACL’2020, WWW’2019, JIST’2018, CCKS’2018
