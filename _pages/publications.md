@@ -17,7 +17,7 @@ author_profile: true
 
 ### Conference Papers
 
-* **Yu Gu**, Tianshuo Zhou, Gong Cheng, Ziyang Li, Jeff Z Pan, Yuzhong Qu. Relevance Search over Schema-Rich Knowledge Graphs. **WSDM2019** [`[pdf]`](http://ws.nju.edu.cn/relevance/relsue/relsue-wsdm2019-cr.pdf) [`[code]`]()
+* **Yu Gu**, Tianshuo Zhou, Gong Cheng, Ziyang Li, Jeff Z Pan, Yuzhong Qu. Relevance Search over Schema-Rich Knowledge Graphs. **WSDM2019** [`[pdf]`](http://ws.nju.edu.cn/relevance/relsue/relsue-wsdm2019-cr.pdf) [`[code]`](http://ws.nju.edu.cn/relevance/relsue/)
 * **Yu Gu**, Yue Liang, Gong Cheng, Daxin Liu, Ruidi Wei, Yuzhong Qu. Diversified and Verbalized Result Summarization for Semantic Association Search. **WISE2018** [`[pdf]`](http://ws.nju.edu.cn/association/summ2018/wise18_extended.pdf)[`[code]`]()
 
 
