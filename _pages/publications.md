@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -13,4 +13,15 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+### Conference Papers
+
+* **Yu Gu**, Tianshuo Zhou, Gong Cheng, Ziyang Li, Jeff Z Pan, Yuzhong Qu. Relevance Search over Schema-Rich Knowledge Graphs. **WSDM2019** [`[pdf]`](http://ws.nju.edu.cn/relevance/relsue/relsue-wsdm2019-cr.pdf) [`[code]`]()
+* **Yu Gu**, Yue Liang, Gong Cheng, Daxin Liu, Ruidi Wei, Yuzhong Qu. Diversified and Verbalized Result Summarization for Semantic Association Search. **WISE2018** [`[pdf]`](http://ws.nju.edu.cn/association/summ2018/wise18_extended.pdf)[`[code]`]()
+
+
+### Preprint & Workshop Papers
+
+* **Yu Gu**, Jeff Pan, Gong Cheng, Heiko Paulheim and Giorgos Stoilos. Local ABox Consistency Prediction with Transparent TBoxes Using Gated Graph Neural Networks. **NeSy19@IJCAI** [`[pdf]`]()[`[code]`]() 
+
