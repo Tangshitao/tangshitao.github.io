@@ -19,11 +19,15 @@ Work experience
 ======
 * 2019-: Research Assistant
   * The Ohio State University
-  * Supervisor: [Yu Su](https://ysu1989.github.io)
+  * Supervisor: [Prof. Yu Su](https://ysu1989.github.io)
  
-* 2015-: Research Assistant
+* 2015-2019: Research Assistant
   * Nanjing University
-  * Supervisor: [Gong Cheng](http://ws.nju.edu.cn/~gcheng)
+  * Supervisor: [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng)
+
+* 2018.08-2019.02: Visiting Research Assistant (sponsored by CSC scholarship)
+  * University of Aberdeen
+  * Supervisor: [Prof. Jeff Pan](http://knowledge-representation.org/j.z.pan/)
 
   
 Service
