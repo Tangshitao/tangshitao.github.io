@@ -13,5 +13,6 @@ Specifically, topics I am interested in include:
 * Representation learning for knowledge base, including KB embedding, knowledge-aware language modeling, e.t.c.
 * Search over KB, including graph search (see. [my previous work](http://ws.nju.edu.cn/association/summ2018/wise18_extended.pdf)), graph mining (see. [my previous work](http://ws.nju.edu.cn/relevance/relsue/relsue-wsdm2019-cr.pdf)), e.t.c.
 * Reasoning over KB, including inductive link prediction, deductive reasoning (based on formal logics like description logics), e.t.c.
+
 ## Recent News
 
