@@ -3,7 +3,6 @@ permalink: /resources
 excerpt: "Resources"
 author_profile: true
 redirect_from: 
-  - /resources
   - /resources.md
 ---
 
