@@ -32,5 +32,5 @@ Work experience
   
 Service
 ======
-* Program Committee Member: NLPCC'2020
+* Program Committee Member / Reviewer: NLPCC'2020, TKDE'2020
 * External Reviewer / Subreviewer:  KDD’2020, ACL’2020, WWW’2019, JIST’2018, CCKS’2018
