@@ -24,4 +24,5 @@ author_profile: true
 ### Preprint & Workshop Papers
 
 * **Yu Gu**, Jeff Pan, Gong Cheng, Heiko Paulheim and Giorgos Stoilos. Local ABox Consistency Prediction with Transparent TBoxes Using Gated Graph Neural Networks. **NeSy19@IJCAI** [`[pdf]`]()[`[code]`]() 
+* **Yu Gu**, Sue Kase, Michelle Vanni, Brian Sadler, Percy Liang, Xifeng Yan and Yu Su. Beyond I.I.D.: Three Levels of Generalization for QuestionAnswering on Knowledge Bases. In submission to **WWW2021** [`[pdf]`]()[`[code]`]() 
 
