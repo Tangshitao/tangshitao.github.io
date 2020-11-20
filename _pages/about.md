@@ -15,4 +15,4 @@ Specifically, topics I am interested in include:
 * Reasoning over KB, including inductive link prediction, deductive reasoning (based on formal logics like description logics), etc.
 
 ## Recent News
-
+11/20/2020: We are excited to release our new QA dataset [GrailQA](http://dki-lab.github.io/GrailQA/). Source code of our experiments will also be released soon. Please stay tuned!
