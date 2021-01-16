@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Conference Papers
-* **Yu Gu**, Sue Kase, Michelle Vanni, Brian Sadler, Percy Liang, Xifeng Yan and Yu Su. Beyond I.I.D.: Three Levels of Generalization for QuestionAnswering on Knowledge Bases. **TheWebConf2021** [`[pdf]`](https://arxiv.org/abs/2011.07743)[`[code]`](https://dki-lab.github.io/GrailQA/) 
+* **Yu Gu**, Sue Kase, Michelle Vanni, Brian Sadler, Percy Liang, Xifeng Yan and Yu Su. Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases. **TheWebConf2021** [`[pdf]`](https://arxiv.org/abs/2011.07743)[`[code]`](https://dki-lab.github.io/GrailQA/) 
 * **Yu Gu**, Tianshuo Zhou, Gong Cheng, Ziyang Li, Jeff Z Pan, Yuzhong Qu. Relevance Search over Schema-Rich Knowledge Graphs. **WSDM2019** [`[pdf]`](http://ws.nju.edu.cn/relevance/relsue/relsue-wsdm2019-cr.pdf) [`[code]`](http://ws.nju.edu.cn/relevance/relsue/)
 * **Yu Gu**, Yue Liang, Gong Cheng, Daxin Liu, Ruidi Wei, Yuzhong Qu. Diversified and Verbalized Result Summarization for Semantic Association Search. **WISE2018** [`[pdf]`](http://ws.nju.edu.cn/association/summ2018/wise18_extended.pdf)[`[code]`]()
 
