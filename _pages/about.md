@@ -15,6 +15,8 @@ Specifically, topics I am interested in include:
 Previously, I also worked on semantic web with [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng) at Nanjing University, during when I developed broad interest in topics related to knowledge-based semantic search (e.g., association search and relevance search) and knowledge-based reasoning (e.g., approximate reasoning in formal logic using GNN).
 
 ## Recent News
+05/24/2021: Joining Microsoft Research as a research intern!
+
 05/05/2021: One paper is accepted to ACL'2021.
 
 03/22/2021: Honored to be selected as a recipient of a Student Scholarship award to attend The Web Conference 2021!
