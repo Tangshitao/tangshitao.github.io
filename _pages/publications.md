@@ -15,9 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-### Conference Papers
-
-### Conference Papers
 * QuadTree Attention for Vision Transformers, To appear in **ICLR2022**<br> **<font size="2">Shitao Tang</font>\***, <font size="2">Jiahui Zhang</font>\*, <font size="2">Siyu Zhu</font>, <font size="2">Ping Tan</font> [`[pdf]`](https://arxiv.org/pdf/2201.02767.pdf)[`[code]`](https://github.com/Tangshitao/QuadTreeAttention) 
 
 * Learning Camera Localization via Dense Scene Matching, **CVPR2021**<br> **<font size="2">Shitao Tang</font>**, <font size="2">Chengzhou Tang</font>, <font size="2">Rui Huang</font>, <font size="2">Siyu Zhu</font>, <font size="2">Ping Tan</font> [`[pdf]`](https://arxiv.org/pdf/2103.16792.pdf)[`[code]`](https://github.com/Tangshitao/Dense-Scene-Matching) 
