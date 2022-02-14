@@ -16,14 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 ### Conference Papers
-* Vardaan Pahuja, **Yu Gu**, Wenhu Chen, Mehdi Bahrami, Lei Liu, Wei-Peng Chen and Yu Su, A Systematic Investigation of KB-Text Embedding Alignment at Scale. To appear in **ACL2021**
-* **Yu Gu**, Sue Kase, Michelle Vanni, Brian Sadler, Percy Liang, Xifeng Yan and Yu Su. Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases. **TheWebConf2021** [`[pdf]`](https://arxiv.org/abs/2011.07743)[`[code]`](https://dki-lab.github.io/GrailQA/) 
-* **Yu Gu**, Tianshuo Zhou, Gong Cheng, Ziyang Li, Jeff Z Pan, Yuzhong Qu. Relevance Search over Schema-Rich Knowledge Graphs. **WSDM2019** [`[pdf]`](http://ws.nju.edu.cn/relevance/relsue/relsue-wsdm2019-cr.pdf) [`[code]`](http://ws.nju.edu.cn/relevance/relsue/)
-* **Yu Gu**, Yue Liang, Gong Cheng, Daxin Liu, Ruidi Wei, Yuzhong Qu. Diversified and Verbalized Result Summarization for Semantic Association Search. **WISE2018** [`[pdf]`](http://ws.nju.edu.cn/association/summ2018/wise18_extended.pdf)[`[code]`]()
+* QuadTree Attention for Vision Transformers, To appear in **ICLR2022**<br> <font size="2">**Shitao Tang\***, Jiahui Zhang\*, Siyu Zhu, Ping Tan [`[pdf]`](https://arxiv.org/pdf/2201.02767.pdf)[`[code]`](https://github.com/Tangshitao/QuadTreeAttention) </font> 
 
-
-### Preprint & Workshop Papers
-
-* **Yu Gu**, Jeff Pan, Gong Cheng, Heiko Paulheim and Giorgos Stoilos. Local ABox Consistency Prediction with Transparent TBoxes Using Gated Graph Neural Networks. **NeSy19@IJCAI** [`[pdf]`]()[`[code]`]() 
-
-
+* Learning Camera Localization via Dense Scene Matching, **CVPR2021**<br> <font size="2">**Shitao Tang**, Chengzhou Tang, Rui Huang, Siyu Zhu, Ping Tan [`[pdf]`](https://arxiv.org/pdf/2103.16792.pdf)[`[code]`](https://github.com/Tangshitao/Dense-Scene-Matching) </font> 
+* Channel equilibrium networks for learning deep representation, **ICML2020**<br> <font size="2">Wenqi Shao\*, **Shitao Tang\***, Xingang Pan, Ping Tan, Xiaogang Wang, Ping Luo [`[pdf]`](http://proceedings.mlr.press/v119/shao20a/shao20a.pdf)[`[code]`](https://github.com/Tangshitao/CENet) </font>
+* Learning Efficient Detector with Semi-supervised Adaptive Distillation, **BMVC2019**<br> <font size="2">**Shitao Tang**, Litong Feng, Wenqi Shao, Zhanghui Kuang, Wei Zhang, Yimin Chen [`[pdf]`](https://arxiv.org/pdf/1901.00366.pdf?ref=https://githubhelp.com)</font>
+* Fast video shot transition localization with deep structured models, **ACCV2018**<br> <font size="2">**Shitao Tang**, Litong Feng, Zhanghui Kuang, Yimin Chen, Wei Zhang [`[pdf]`](https://arxiv.org/pdf/1808.04234.pdf)[`[code]`](https://github.com/Tangshitao/ClipShots) </font>
