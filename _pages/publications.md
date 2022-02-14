@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ### Conference Papers
-* QuadTree Attention for Vision Transformers, To appear in **ICLR2022**<br> <font size="2">**Shitao Tang\***, Jiahui Zhang\*, Siyu Zhu, Ping Tan [`[pdf]`](https://arxiv.org/pdf/2201.02767.pdf)[`[code]`](https://github.com/Tangshitao/QuadTreeAttention) </font> 
+* QuadTree Attention for Vision Transformers, To appear in **ICLR2022**<br> <font size="2">**Shitao Tang\***, Jiahui Zhang\*, Siyu Zhu, Ping Tan</font>  [`[pdf]`](https://arxiv.org/pdf/2201.02767.pdf)[`[code]`](https://github.com/Tangshitao/QuadTreeAttention)
 
 * Learning Camera Localization via Dense Scene Matching, **CVPR2021**<br> <font size="2">**Shitao Tang**, Chengzhou Tang, Rui Huang, Siyu Zhu, Ping Tan [`[pdf]`](https://arxiv.org/pdf/2103.16792.pdf)[`[code]`](https://github.com/Tangshitao/Dense-Scene-Matching) </font> 
 * Channel equilibrium networks for learning deep representation, **ICML2020**<br> <font size="2">Wenqi Shao\*, **Shitao Tang\***, Xingang Pan, Ping Tan, Xiaogang Wang, Ping Luo [`[pdf]`](http://proceedings.mlr.press/v119/shao20a/shao20a.pdf)[`[code]`](https://github.com/Tangshitao/CENet) </font>
