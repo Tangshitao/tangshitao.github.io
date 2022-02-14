@@ -7,20 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I have been a Ph.D student at The Ohio State University since Autumn 2019. I am fortunately working with [Prof. Yu Su](https://ysu1989.github.io). My current research interest is situated in natural language processing, with focus on semantic parsing and knowledge base. 
-Specifically, topics I am interested in include:
-* Natural language interface, including semantic parsing, KBQA, etc.
-* Representation learning for knowledge bases, including KB embedding, knowledge-aware language modeling, etc.
+I am a PhD candidate supervised by [Prof. Yasutaka Furukawa](https://www.cs.sfu.ca/~furukawa/) at Simon Fraser University. I also fortunately compele my master study under the supervision of [Prof. Ping Tan](https://www.cs.sfu.ca/~pingtan/). My current research interest is network archtecture and 3D vision, especically localization and mapping. 
 
-Previously, I also worked on semantic web with [Prof. Gong Cheng](http://ws.nju.edu.cn/~gcheng) at Nanjing University, during when I developed broad interest in topics related to knowledge-based semantic search (e.g., association search and relevance search) and knowledge-based reasoning (e.g., approximate reasoning in formal logic using GNN).
-
-## Recent News
-05/24/2021: Joining Microsoft Research as a research intern!
-
-05/05/2021: One paper is accepted to ACL'2021.
-
-03/22/2021: Honored to be selected as a recipient of a Student Scholarship award to attend The Web Conference 2021!
-
-01/15/2021: One paper is accepted to TheWebConf'2021 (previously WWW).
-
-11/20/2020: We are excited to release our new QA dataset [GrailQA](http://dki-lab.github.io/GrailQA/). Source code of our experiments will also be released soon. Please stay tuned!
