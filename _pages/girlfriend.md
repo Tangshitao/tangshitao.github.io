@@ -5,6 +5,6 @@ permalink: /girlfriend/
 author_profile: true
 ---
 
-<div align="center">
-  <img width="800", src="images/IMG_4682.JPG">
-</div>
+<img src="images/IMG_4682.JPG"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
