@@ -5,6 +5,4 @@ permalink: /girlfriend/
 author_profile: true
 ---
 
-<img src="images/IMG_4682.JPG"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![](https://github.com/Tangshitao/tangshitao.github.io/blob/master/images/IMG_4682.JPG)
