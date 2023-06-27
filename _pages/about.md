@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate supervised by [Prof. Yasutaka Furukawa](https://www.cs.sfu.ca/~furukawa/) at Simon Fraser University. I also, fortunately, complete my master's study under the supervision of [Prof. Ping Tan](https://www.cs.sfu.ca/~pingtan/). My current research interest is 3D vision, especially localization and mapping.
+I am a Ph.D. candidate supervised by [Prof. Yasutaka Furukawa](https://www.cs.sfu.ca/~furukawa/) at Simon Fraser University. I also, fortunately, complete my master's study under the supervision of [Prof. Ping Tan](https://www.cs.sfu.ca/~pingtan/). My current research interest is 3D vision, generative model, localization and mapping. <span style="color:red">I will graduate in 2024 and currently on job market, looking for full-time positions in industrial</span>.
