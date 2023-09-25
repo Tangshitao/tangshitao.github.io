@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-* MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion, NeurIPS 2023 (Spotlight). <br> **<font size="2">Shitao Tang</font>\***, <font size="2">Fuyang Zhang</font>\*, <font size="2">Jiacheng Chen</font>, <font size="2">Peng Wang</font>, <font size="2">Yasutaka Furukawa</font>  [`[Project]`](https://mvdiffusion.github.io/)[`[Demo]`](https://huggingface.co/spaces/tangshitao/MVDiffusion)[`[pdf]`]()[`[code]`](https://github.com/Tangshitao/MVDiffusion)
+* MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion, **NeurIPS 2023 (Spotlight)**. <br> **<font size="2">Shitao Tang</font>\***, <font size="2">Fuyang Zhang</font>\*, <font size="2">Jiacheng Chen</font>, <font size="2">Peng Wang</font>, <font size="2">Yasutaka Furukawa</font>  [`[Project]`](https://mvdiffusion.github.io/)[`[Demo]`](https://huggingface.co/spaces/tangshitao/MVDiffusion)[`[pdf]`]()[`[code]`](https://github.com/Tangshitao/MVDiffusion)
 
 * NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization, **CVPR2023**<br> **<font size="2">Shitao Tang</font>**, <font size="2">Sicong Tang</font>, <font size="2">Andrea Tagliasacchi</font>, <font size="2">Ping Tan</font>, <font size="2">Yasutaka Furukawa</font>  [`[pdf]`](https://arxiv.org/pdf/2211.11177.pdf)[`[code]`](https://github.com/Tangshitao/NeuMap) 
 
