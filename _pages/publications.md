@@ -14,6 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+* Cosmos World Foundation Model Platform for Physical AI, **arXiv preprint arXiv:2504.07334**. <br><font size="2">NVIDIA</font>   [`[Project]`](https://www.nvidia.com/en-us/ai/cosmos/)[`[pdf]`](https://arxiv.org/abs/2501.03575)
+
 * MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single to Sparse-view 3D Object Reconstruction, **ECCV 2024**. <br> **<font size="2">Shitao Tang</font>\***, <font size="2">Jiacheng Chen</font>\*, <font size="2">Dilin Wang</font>\*, <font size="2">Chengzhou Tang</font>, <font size="2">Fuyang Zhang</font>, <font size="2">Yuchen Fan</font>, <font size="2">Vikas Chandra</font>, <font size="2">Rakesh Ranjan</font>, <font size="2">Yasutaka Furukawa</font>   [`[Project]`](https://mvdiffusion-plusplus.github.io/)[`[pdf]`](https://arxiv.org/abs/2402.12712)
 
 * MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion, **NeurIPS 2023 (Spotlight)**. <br> **<font size="2">Shitao Tang</font>\***, <font size="2">Fuyang Zhang</font>\*, <font size="2">Jiacheng Chen</font>, <font size="2">Peng Wang</font>, <font size="2">Yasutaka Furukawa</font>  [`[Project]`](https://mvdiffusion.github.io/)[`[Demo]`](https://huggingface.co/spaces/tangshitao/MVDiffusion)[`[pdf]`](https://arxiv.org/abs/2307.01097)[`[code]`](https://github.com/Tangshitao/MVDiffusion)
