@@ -1,0 +1,200 @@
+/* ==========================================================================
+   CUSTOM STYLES
+   ========================================================================== */
+
+/* Masthead refinement */
+.masthead {
+  background: #fff;
+  border-bottom: 2px solid $accent-color;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+}
+
+.masthead__inner-wrap a {
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: color 0.15s ease;
+}
+
+/* Profile / sidebar */
+.author__avatar img {
+  border: 3px solid $accent-color !important;
+  box-shadow: 0 4px 16px rgba(0, 176, 155, 0.15);
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 6px 24px rgba(0, 176, 155, 0.25);
+  }
+}
+
+.author__name {
+  font-size: 1.1em !important;
+  color: $primary-color;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  color: #5a6a7a;
+  font-size: 0.82em;
+}
+
+.author__urls a {
+  color: #3d4f63 !important;
+  font-size: 0.83em !important;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: $accent-color !important;
+    text-decoration: none !important;
+  }
+}
+
+/* Publication cards */
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pub-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-left: 4px solid transparent;
+  border-radius: 8px;
+  padding: 1.1em 1.4em;
+  margin-bottom: 1em;
+  transition: border-left-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    border-left-color: $accent-color;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.07);
+    transform: translateY(-1px);
+  }
+}
+
+.pub-title {
+  font-size: 0.95em;
+  font-weight: 700;
+  color: $primary-color;
+  margin-bottom: 0.3em;
+  line-height: 1.4;
+}
+
+.pub-meta {
+  margin-bottom: 0.35em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+
+.pub-authors {
+  font-size: 0.78em;
+  color: #5a6a7a;
+  margin-bottom: 0.5em;
+  line-height: 1.5;
+}
+
+/* Conference / venue badges */
+.badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.7em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+}
+
+.badge-neurips   { background: #c53030; color: #fff; }
+.badge-spotlight { background: #d4a017; color: #fff; }
+.badge-cvpr     { background: #2b6cb0; color: #fff; }
+.badge-eccv     { background: #6b46c1; color: #fff; }
+.badge-iclr     { background: #c05621; color: #fff; }
+.badge-icml     { background: #276749; color: #fff; }
+.badge-bmvc     { background: #4a5568; color: #fff; }
+.badge-accv     { background: #718096; color: #fff; }
+.badge-arxiv    { background: #9c3b2b; color: #fff; }
+
+/* Paper link buttons */
+.paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 0.5em;
+}
+
+.paper-btn {
+  display: inline-block;
+  padding: 3px 11px;
+  border-radius: 4px;
+  font-size: 0.72em;
+  font-weight: 600;
+  text-decoration: none !important;
+  border: 1.5px solid #c4cdd6;
+  color: #3d4f63 !important;
+  background: #f7f9fc;
+  transition: all 0.15s ease;
+  letter-spacing: 0.02em;
+
+  &:hover {
+    background: $accent-color;
+    border-color: $accent-color;
+    color: #fff !important;
+  }
+}
+
+/* Page content typography + fade-in */
+.page__content {
+  animation: fadeInUp 0.4s ease both;
+  animation-delay: 0.1s;
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  h2 {
+    color: $primary-color;
+    border-bottom: 2px solid $accent-color;
+    padding-bottom: 0.35em;
+  }
+}
+
+/* Footer */
+.page__footer {
+  background-color: $primary-color !important;
+  border-top: 2px solid $accent-color;
+  color: rgba(255,255,255,0.65) !important;
+
+  footer {
+    color: rgba(255,255,255,0.65);
+  }
+
+  a {
+    color: rgba(255,255,255,0.8) !important;
+
+    &:hover {
+      color: $accent-color !important;
+      text-decoration: none !important;
+    }
+  }
+
+  .fas, .fab, .far, .fal {
+    color: rgba(255,255,255,0.5) !important;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

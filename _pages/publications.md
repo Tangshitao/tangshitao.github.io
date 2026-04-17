@@ -4,30 +4,118 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<!-- 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+<ul class="pub-list">
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-* Cosmos World Foundation Model Platform for Physical AI, **arXiv preprint arXiv:2504.07334**. <br>**<font size="2">NVIDIA</font>**   [`[Project]`](https://www.nvidia.com/en-us/ai/cosmos/)[`[pdf]`](https://arxiv.org/abs/2501.03575) [`[code]`](https://github.com/NVIDIA/Cosmos)
+  <li class="pub-card">
+    <div class="pub-title">Cosmos World Foundation Model Platform for Physical AI</div>
+    <div class="pub-meta">
+      <span class="badge badge-arxiv">arXiv 2025</span>
+    </div>
+    <div class="pub-authors">NVIDIA</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://www.nvidia.com/en-us/ai/cosmos/">Project</a>
+      <a class="paper-btn" href="https://arxiv.org/abs/2501.03575">PDF</a>
+      <a class="paper-btn" href="https://github.com/NVIDIA/Cosmos">Code</a>
+    </div>
+  </li>
 
-* MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single to Sparse-view 3D Object Reconstruction, **ECCV 2024**. <br> **<font size="2">Shitao Tang</font>\***, <font size="2">Jiacheng Chen</font>\*, <font size="2">Dilin Wang</font>\*, <font size="2">Chengzhou Tang</font>, <font size="2">Fuyang Zhang</font>, <font size="2">Yuchen Fan</font>, <font size="2">Vikas Chandra</font>, <font size="2">Rakesh Ranjan</font>, <font size="2">Yasutaka Furukawa</font>   [`[Project]`](https://mvdiffusion-plusplus.github.io/)[`[pdf]`](https://arxiv.org/abs/2402.12712)
+  <li class="pub-card">
+    <div class="pub-title">MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single to Sparse-view 3D Object Reconstruction</div>
+    <div class="pub-meta">
+      <span class="badge badge-eccv">ECCV 2024</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>*, Jiacheng Chen*, Dilin Wang*, Chengzhou Tang, Fuyang Zhang, Yuchen Fan, Vikas Chandra, Rakesh Ranjan, Yasutaka Furukawa</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://mvdiffusion-plusplus.github.io/">Project</a>
+      <a class="paper-btn" href="https://arxiv.org/abs/2402.12712">PDF</a>
+    </div>
+  </li>
 
-* MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion, **NeurIPS 2023 (Spotlight)**. <br> **<font size="2">Shitao Tang</font>\***, <font size="2">Fuyang Zhang</font>\*, <font size="2">Jiacheng Chen</font>, <font size="2">Peng Wang</font>, <font size="2">Yasutaka Furukawa</font>  [`[Project]`](https://mvdiffusion.github.io/)[`[Demo]`](https://huggingface.co/spaces/tangshitao/MVDiffusion)[`[pdf]`](https://arxiv.org/abs/2307.01097)[`[code]`](https://github.com/Tangshitao/MVDiffusion)
+  <li class="pub-card">
+    <div class="pub-title">MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion</div>
+    <div class="pub-meta">
+      <span class="badge badge-neurips">NeurIPS 2023</span>
+      <span class="badge badge-spotlight">Spotlight</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>*, Fuyang Zhang*, Jiacheng Chen, Peng Wang, Yasutaka Furukawa</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://mvdiffusion.github.io/">Project</a>
+      <a class="paper-btn" href="https://huggingface.co/spaces/tangshitao/MVDiffusion">Demo</a>
+      <a class="paper-btn" href="https://arxiv.org/abs/2307.01097">PDF</a>
+      <a class="paper-btn" href="https://github.com/Tangshitao/MVDiffusion">Code</a>
+    </div>
+  </li>
 
-* NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization, **CVPR2023**<br> **<font size="2">Shitao Tang</font>**, <font size="2">Sicong Tang</font>, <font size="2">Andrea Tagliasacchi</font>, <font size="2">Ping Tan</font>, <font size="2">Yasutaka Furukawa</font>  [`[pdf]`](https://arxiv.org/pdf/2211.11177.pdf)[`[code]`](https://github.com/Tangshitao/NeuMap) 
+  <li class="pub-card">
+    <div class="pub-title">NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization</div>
+    <div class="pub-meta">
+      <span class="badge badge-cvpr">CVPR 2023</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>, Sicong Tang, Andrea Tagliasacchi, Ping Tan, Yasutaka Furukawa</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/pdf/2211.11177.pdf">PDF</a>
+      <a class="paper-btn" href="https://github.com/Tangshitao/NeuMap">Code</a>
+    </div>
+  </li>
 
-* QuadTree Attention for Vision Transformers, **ICLR2022**<br> **<font size="2">Shitao Tang</font>\***, <font size="2">Jiahui Zhang</font>\*, <font size="2">Siyu Zhu</font>, <font size="2">Ping Tan</font> [`[pdf]`](https://arxiv.org/pdf/2201.02767.pdf)[`[code]`](https://github.com/Tangshitao/QuadTreeAttention) 
+  <li class="pub-card">
+    <div class="pub-title">QuadTree Attention for Vision Transformers</div>
+    <div class="pub-meta">
+      <span class="badge badge-iclr">ICLR 2022</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>*, Jiahui Zhang*, Siyu Zhu, Ping Tan</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/pdf/2201.02767.pdf">PDF</a>
+      <a class="paper-btn" href="https://github.com/Tangshitao/QuadTreeAttention">Code</a>
+    </div>
+  </li>
 
-* Learning Camera Localization via Dense Scene Matching, **CVPR2021**<br> **<font size="2">Shitao Tang</font>**, <font size="2">Chengzhou Tang</font>, <font size="2">Rui Huang</font>, <font size="2">Siyu Zhu</font>, <font size="2">Ping Tan</font> [`[pdf]`](https://arxiv.org/pdf/2103.16792.pdf)[`[code]`](https://github.com/Tangshitao/Dense-Scene-Matching) 
+  <li class="pub-card">
+    <div class="pub-title">Learning Camera Localization via Dense Scene Matching</div>
+    <div class="pub-meta">
+      <span class="badge badge-cvpr">CVPR 2021</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>, Chengzhou Tang, Rui Huang, Siyu Zhu, Ping Tan</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/pdf/2103.16792.pdf">PDF</a>
+      <a class="paper-btn" href="https://github.com/Tangshitao/Dense-Scene-Matching">Code</a>
+    </div>
+  </li>
 
-* Channel equilibrium networks for learning deep representation, **ICML2020**<br> <font size="2">Wenqi Shao</font>\*, **<font size="2">Shitao Tang</font>\***, <font size="2">Xingang Pan</font>, <font size="2">Ping Tan</font>, <font size="2">Xiaogang Wang</font>, <font size="2">Ping Luo</font> [`[pdf]`](http://proceedings.mlr.press/v119/shao20a/shao20a.pdf)[`[code]`](https://github.com/Tangshitao/CENet) 
+  <li class="pub-card">
+    <div class="pub-title">Channel Equilibrium Networks for Learning Deep Representation</div>
+    <div class="pub-meta">
+      <span class="badge badge-icml">ICML 2020</span>
+    </div>
+    <div class="pub-authors">Wenqi Shao*, <strong>Shitao Tang</strong>*, Xingang Pan, Ping Tan, Xiaogang Wang, Ping Luo</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="http://proceedings.mlr.press/v119/shao20a/shao20a.pdf">PDF</a>
+      <a class="paper-btn" href="https://github.com/Tangshitao/CENet">Code</a>
+    </div>
+  </li>
 
-* Learning Efficient Detector with Semi-supervised Adaptive Distillation, **BMVC2019**<br> **<font size="2">Shitao Tang</font>**, <font size="2">Litong Feng</font>, <font size="2">Wenqi Shao</font>, <font size="2">Zhanghui Kuang</font>, <font size="2">Wei Zhang</font>, <font size="2">Yimin Chen</font> [`[pdf]`](https://arxiv.org/pdf/1901.00366.pdf?ref=https://githubhelp.com)
+  <li class="pub-card">
+    <div class="pub-title">Learning Efficient Detector with Semi-supervised Adaptive Distillation</div>
+    <div class="pub-meta">
+      <span class="badge badge-bmvc">BMVC 2019</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>, Litong Feng, Wenqi Shao, Zhanghui Kuang, Wei Zhang, Yimin Chen</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/pdf/1901.00366.pdf">PDF</a>
+    </div>
+  </li>
 
-* Fast video shot transition localization with deep structured models, **ACCV2018**<br> **<font size="2">Shitao Tang</font>**, <font size="2">Litong Feng</font>, <font size="2">Zhanghui Kuang</font>, <font size="2">Yimin Chen</font>, <font size="2">Wei Zhang</font> [`[pdf]`](https://arxiv.org/pdf/1808.04234.pdf)[`[code]`](https://github.com/Tangshitao/ClipShots) 
+  <li class="pub-card">
+    <div class="pub-title">Fast Video Shot Transition Localization with Deep Structured Models</div>
+    <div class="pub-meta">
+      <span class="badge badge-accv">ACCV 2018</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>, Litong Feng, Zhanghui Kuang, Yimin Chen, Wei Zhang</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/pdf/1808.04234.pdf">PDF</a>
+      <a class="paper-btn" href="https://github.com/Tangshitao/ClipShots">Code</a>
+    </div>
+  </li>
+
+</ul>
