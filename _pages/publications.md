@@ -21,6 +21,65 @@ author_profile: true
   </li>
 
   <li class="pub-card">
+    <div class="pub-title">Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control</div>
+    <div class="pub-meta">
+      <span class="badge badge-arxiv">arXiv 2025</span>
+    </div>
+    <div class="pub-authors">NVIDIA</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://research.nvidia.com/labs/dir/cosmos-transfer1/">Project</a>
+      <a class="paper-btn" href="https://arxiv.org/abs/2503.14492">PDF</a>
+      <a class="paper-btn" href="https://github.com/nvidia-cosmos/cosmos-transfer1">Code</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
+    <div class="pub-title">World Simulation with Video Foundation Models for Physical AI</div>
+    <div class="pub-meta">
+      <span class="badge badge-arxiv">arXiv 2025</span>
+    </div>
+    <div class="pub-authors">NVIDIA</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/abs/2511.00062">PDF</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
+    <div class="pub-title">Objaverse++: Curated 3D Object Dataset with Quality Annotations</div>
+    <div class="pub-meta">
+      <span class="badge badge-iccv">ICCV 2025</span>
+    </div>
+    <div class="pub-authors">NVIDIA</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/abs/2504.07334">PDF</a>
+      <a class="paper-btn" href="https://github.com/TCXX/ObjaversePlusPlus">Code</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
+    <div class="pub-title">CamFreeDiff: Camera-free Image to Panorama Generation with Diffusion Model</div>
+    <div class="pub-meta">
+      <span class="badge badge-cvpr">CVPR 2025</span>
+    </div>
+    <div class="pub-authors">NVIDIA</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/abs/2407.07174">PDF</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
+    <div class="pub-title">BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation</div>
+    <div class="pub-meta">
+      <span class="badge badge-iclr">ICLR 2024</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>, Yang Lin, Jing Li, Wei Niu, Bin Ren, Fei Mao, Jianli Ren, Zhishang Li</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/abs/2402.16880">PDF</a>
+      <a class="paper-btn" href="https://github.com/OpenGVLab/LLMPrune-BESA">Code</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
     <div class="pub-title">MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single to Sparse-view 3D Object Reconstruction</div>
     <div class="pub-meta">
       <span class="badge badge-eccv">ECCV 2024</span>
@@ -56,6 +115,17 @@ author_profile: true
     <div class="paper-links">
       <a class="paper-btn" href="https://arxiv.org/pdf/2211.11177.pdf">PDF</a>
       <a class="paper-btn" href="https://github.com/Tangshitao/NeuMap">Code</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
+    <div class="pub-title">RenderNet: Visual Relocalization Using Virtual Viewpoints in Large-Scale Indoor Environments</div>
+    <div class="pub-meta">
+      <span class="badge badge-arxiv">arXiv 2022</span>
+    </div>
+    <div class="pub-authors"><strong>Shitao Tang</strong>, Chengzhou Tang, Ping Tan</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://arxiv.org/abs/2207.12579">PDF</a>
     </div>
   </li>
 
