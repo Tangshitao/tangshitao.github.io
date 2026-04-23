@@ -61,7 +61,7 @@ author_profile: true
     <div class="pub-meta">
       <span class="badge badge-cvpr">CVPR 2025</span>
     </div>
-    <div class="pub-authors">Simon Fraser University</div>
+    <div class="pub-authors">Xiaoding Yuan, <strong>Shitao Tang</strong>, Kejie Li, Alan Yuille, Peng Wang</div>
     <div class="paper-links">
       <a class="paper-btn" href="https://arxiv.org/abs/2407.07174">PDF</a>
     </div>
