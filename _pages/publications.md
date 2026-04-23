@@ -49,7 +49,7 @@ author_profile: true
     <div class="pub-meta">
       <span class="badge badge-iccv">ICCV 2025</span>
     </div>
-    <div class="pub-authors">NVIDIA</div>
+    <div class="pub-authors">Simon Fraser University</div>
     <div class="paper-links">
       <a class="paper-btn" href="https://arxiv.org/abs/2504.07334">PDF</a>
       <a class="paper-btn" href="https://github.com/TCXX/ObjaversePlusPlus">Code</a>
@@ -61,7 +61,7 @@ author_profile: true
     <div class="pub-meta">
       <span class="badge badge-cvpr">CVPR 2025</span>
     </div>
-    <div class="pub-authors">NVIDIA</div>
+    <div class="pub-authors">Simon Fraser University</div>
     <div class="paper-links">
       <a class="paper-btn" href="https://arxiv.org/abs/2407.07174">PDF</a>
     </div>
