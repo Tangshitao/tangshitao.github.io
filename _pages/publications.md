@@ -49,7 +49,7 @@ author_profile: true
     <div class="pub-meta">
       <span class="badge badge-iccv">ICCV 2025</span>
     </div>
-    <div class="pub-authors">Simon Fraser University</div>
+    <div class="pub-authors">Chendi Lin, Heshan Liu, Qunshu Lin, Zachary Bright, <strong>Shitao Tang</strong>, Yihui He, Minghao Liu, Ling Zhu, Cindy Le</div>
     <div class="paper-links">
       <a class="paper-btn" href="https://arxiv.org/abs/2504.07334">PDF</a>
       <a class="paper-btn" href="https://github.com/TCXX/ObjaversePlusPlus">Code</a>
