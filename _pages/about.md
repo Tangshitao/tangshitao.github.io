@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Rhoda AI](https://www.rhoda.ai/), working on robot foundation models. Previously, I was a Research Scientist at [NVIDIA Research](https://research.nvidia.com/labs/dir/), Deep Imagination Group, where I was a founding member of Cosmos World Foundation Model and a core contributor across Cosmos 1, 2, and 3. I received my Ph.D. from Simon Fraser University, supervised by [Prof. Yasutaka Furukawa](https://www.cs.sfu.ca/~furukawa/), and my M.S. under the supervision of [Prof. Ping Tan](https://www.cs.sfu.ca/~pingtan/).
+I am a researcher at [Rhoda AI](https://www.rhoda.ai/), working on robot foundation models. Previously, I was a Research Scientist at [NVIDIA Research](https://research.nvidia.com/labs/dir/), Cosmos Lab, where I was a founding member of Cosmos World Foundation Model and a core contributor across Cosmos 1, 2, and 3. I received my Ph.D. from Simon Fraser University, supervised by [Prof. Yasutaka Furukawa](https://www.cs.sfu.ca/~furukawa/), and my M.S. under the supervision of [Prof. Ping Tan](https://www.cs.sfu.ca/~pingtan/).
 
 My research focuses on **robot foundation models**, **world models**, and generative 3D/4D perception for Physical AI.
 
