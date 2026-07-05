@@ -8,6 +8,33 @@ author_profile: true
 <ul class="pub-list">
 
   <li class="pub-card">
+    <div class="pub-title">Cosmos 3: Omnimodal World Models for Physical AI</div>
+    <div class="pub-meta">
+      <span class="badge badge-arxiv">arXiv 2026</span>
+    </div>
+    <div class="pub-authors">NVIDIA</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://research.nvidia.com/labs/cosmos-lab/cosmos3/">Project</a>
+      <a class="paper-btn" href="https://arxiv.org/abs/2606.02800">PDF</a>
+      <a class="paper-btn" href="https://github.com/NVIDIA/cosmos">Code</a>
+      <a class="paper-btn" href="https://huggingface.co/collections/nvidia/cosmos3">Models</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
+    <div class="pub-title">Cosmos-Predict2.5: Improved World Simulation with Video Foundation Models for Physical AI</div>
+    <div class="pub-meta">
+      <span class="badge badge-arxiv">arXiv 2025</span>
+    </div>
+    <div class="pub-authors">NVIDIA</div>
+    <div class="paper-links">
+      <a class="paper-btn" href="https://research.nvidia.com/labs/cosmos-lab/cosmos-predict2.5/">Project</a>
+      <a class="paper-btn" href="https://arxiv.org/abs/2511.00062">PDF</a>
+      <a class="paper-btn" href="https://github.com/nvidia-cosmos/cosmos-predict2.5">Code</a>
+    </div>
+  </li>
+
+  <li class="pub-card">
     <div class="pub-title">Cosmos World Foundation Model Platform for Physical AI</div>
     <div class="pub-meta">
       <span class="badge badge-arxiv">arXiv 2025</span>
@@ -30,17 +57,6 @@ author_profile: true
       <a class="paper-btn" href="https://research.nvidia.com/labs/dir/cosmos-transfer1/">Project</a>
       <a class="paper-btn" href="https://arxiv.org/abs/2503.14492">PDF</a>
       <a class="paper-btn" href="https://github.com/nvidia-cosmos/cosmos-transfer1">Code</a>
-    </div>
-  </li>
-
-  <li class="pub-card">
-    <div class="pub-title">World Simulation with Video Foundation Models for Physical AI</div>
-    <div class="pub-meta">
-      <span class="badge badge-arxiv">arXiv 2025</span>
-    </div>
-    <div class="pub-authors">NVIDIA</div>
-    <div class="paper-links">
-      <a class="paper-btn" href="https://arxiv.org/abs/2511.00062">PDF</a>
     </div>
   </li>
 
